@@ -16,6 +16,6 @@ NOTE- Make sure all the dependenices are already installed in your local project
 6. start another terminal session and cd into the frontend folder
 7. Run: npm run dev
 8. Now click on the localhost port to go to the website
-You can open one more tab and copy the localhost web address into the newly opened tab
-After this click play now on both tabs, then play online on both
-The tab on which you clicked 'Play online' first on is the player who plays white and the other one is black
+9.You can open one more tab and copy the localhost web address into the newly opened tab
+10.After this click play now on both tabs, then play online on both
+11.The tab on which you clicked 'Play online' first on is the player who plays white and the other one is black
