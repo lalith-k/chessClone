@@ -5,6 +5,8 @@ Tech Stack :
 HTML, CSS, ReactJS, NodeJS, TypeScript
 Libraries:
 Tailwind CSS, chess.js (https://github.com/jhlywa/chess.js)
+Images: 
+google, https://www.figma.com/community/file/971870797656870866/chess-simple-assets
 
 Steps to get it running :
 NOTE- Make sure all the dependenices are already installed in your local project folder or globally
